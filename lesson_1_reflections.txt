@@ -1,0 +1,35 @@
+
+
+
+
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The diff command shows the parts of the files where the change has been done. So instead of seraching the whole long files for the possible bugs my search space is highly reduced. I can focus on the small part of the files and the '+' and '-' indicators tell me where the insertions and deletions have been occurred. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can track the evolution of my program and observe which requirements caused the changes I made. So I can learn which requirements cause big changes and try to better design and develop my program.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+ Manually creating the commits makes the history more meaningful. However, one must learn when to make the commits so that the 'one commit per logical change' principle isn't violated. In an automatically saved version control system like Google Docs, every change is commited and saved as a commit so looking to history and trying to track the changes can be a challenge. The good side of this environment is that the files are stored in a regular manner.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+The reason is that in Git all savings are manually made and the purpose is to let the programmer control the commits according to the 'one commit per logical change' rule. However, Google Docs treats each file as an independent entity and therefore each file is stored separately.
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+If I brake something I can always go to previous commits where this error has not been occurred.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to try to modify an open source project using the Git.
+
