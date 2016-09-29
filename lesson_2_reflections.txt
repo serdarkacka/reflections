@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When I initialize a repository a folder named .git is created on the current working directory. I need it to track the changes on the working directory.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working area is where all changes are done. Staging area allows to follow the "one commit per logical change" rule. It is the area where is used to commit changes to the repository.
