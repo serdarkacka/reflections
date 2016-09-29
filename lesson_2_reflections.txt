@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository a folder named .git is created on the current working directory. I need it to track the changes on the working directory.
+
