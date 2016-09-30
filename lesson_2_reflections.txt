@@ -13,3 +13,7 @@ I can add all changed files related to the logical change to the staging area an
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When I try a new feature and make a branch for this experiment, I can make a dozen commits on this branch. And at some point if I decide not use this experimental feature I can change to master branch and by this way I dont populate my history with unnecessary and unrelated commits.
+
+How do the diagrams help you visualize the branch structure?
+
+With diagrams I can see version graph of my project. I can get information about the current state of the project, such as is there any new feature which is being developed and how this feature is related to the main branch of the project etc. 
