@@ -16,4 +16,8 @@ When I try a new feature and make a branch for this experiment, I can make a doz
 
 How do the diagrams help you visualize the branch structure?
 
-With diagrams I can see version graph of my project. I can get information about the current state of the project, such as is there any new feature which is being developed and how this feature is related to the main branch of the project etc. 
+With diagrams I can see version graph of my project. I can get information about the current state of the project, such as is there any new feature which is being developed and how this feature is related to the main branch of the project etc.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches together is to integrate the feature together. 
