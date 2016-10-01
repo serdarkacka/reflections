@@ -21,3 +21,7 @@ With diagrams I can see version graph of my project. I can get information about
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging two branches together is to integrate the feature together. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+I prefer doing merges manually because in this way I can do merges that are logical and that foster colaboration with our members of my team.
